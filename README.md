@@ -6,7 +6,7 @@
 
 I mostly code in JavaScript (JS), I am pretty decent in PHP, Java & C#, and I have coded a bit in C++.
 I have also coded a little in Lua!
-With these coding experiences I have came across JSON, YAML and XML obviously, but also HTML and CSS.
+With these coding experiences I have came across JSON, YAML and XML, but also HTML and CSS.
 
 [web.![JonHosting](https://jonhosting.com/JonHosting_Logo.png).com](https://web.JonHosting.com)
 
