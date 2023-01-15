@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on what fits best. I work best when making my own code myself, or when helping others works well too.
 - 📫 How to reach me: 
 -  - Email: jonny@jonhosting.com
+-  - Gmail: jgtv.jonbot@gmail.com
 -  - Discord user: Jonnygaming Tv#2650
 -  - Discord server: https://jonhosting.com/discord
 -  - Steam: https://jonhosting.com/steam
