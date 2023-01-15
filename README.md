@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonnygamingTv
-- 👀 I’m interested in modelling, but most interested in programming, software and hardware
+- 👀 I’m interested in modelling, mostly interested in programming, a little more towards software but still a little interested of hardware
 - 🌱 I’m currently learning about everything
-- 💞️ I’m looking to collaborate on what fits best
+- 💞️ I’m looking to collaborate on what fits best. I work best when making my own code myself, or when helping others works well too.
 - 📫 How to reach me: 
 -  - Email: jonny@jonhosting.com
 -  - Discord user: Jonnygaming Tv#2650
