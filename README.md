@@ -22,9 +22,13 @@ I mostly code in JavaScript (JS), I am pretty decent in PHP, Java & C#, and I ha
 
 With these coding experiences I have came across JSON, YAML and XML, also HTML and CSS.
 
+Solo projects:
+
 [web.![JonHosting](https://jonhosting.com/JonHosting_Logo.png).com](https://web.JonHosting.com)
 
 [![JonTV.me](https://jontv.me/JonTV/JonTVme_light.svg)](https://JonTV.me)
+
+Group projects:
 
 [![marss.one](https://marss.one/ico/Mmarss2.png)](https://marss.one)
 
