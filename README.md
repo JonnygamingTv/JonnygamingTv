@@ -2,7 +2,20 @@
 - 👀 I’m interested in modelling, but most interested in programming, software and hardware
 - 🌱 I’m currently learning about everything
 - 💞️ I’m looking to collaborate on what fits best
-- 📫 How to reach me: Jonnygaming Tv#2650, jonny@jonhosting.com
+- 📫 How to reach me: 
+-  - Email: jonny@jonhosting.com
+-  - Discord user: Jonnygaming Tv#2650
+-  - Discord server: https://jonhosting.com/discord
+-  - Steam: https://jonhosting.com/steam
+-  - Enjin: https://god-craft.enjin.com/profile/16714121 
+-  - Skype: jonathan.brodin.626
+-  - Xbox: JonnygamingTv
+-  - Google Play & Spotify: jgtvrealjgtv
+-  - YouTube: https://youtube.com/JonnygamingTv
+-  - Twitch: https://twitch.tv/realjonnygamingtv
+-  - Facebook: https://facebook.com/realJonTV
+-  - LinkedIn: https://linkedin.com/company/jonhosting/
+-  - Reddit: [jonathanfi](https://www.reddit.com/user/jonathanfi)
 
 I mostly code in JavaScript (JS), I am pretty decent in PHP, Java & C#, and I have coded a bit in C++ and also a little in Lua.
 
