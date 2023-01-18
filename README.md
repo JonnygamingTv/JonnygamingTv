@@ -30,7 +30,7 @@ Began coding [Node.JS](https://nodejs.org/) in 2017-2018, making bots that could
 After my account [got terminated](https://jontv.me/4R3axSdr) I lost most of my motivation, I did create another account after a couple of weeks. Around that time I created [JonTube](https://jontube.jonhosting.com), which later rebranded to [JonTV](https://JonTV.me). In the end of may in 2020 [my laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/), however after a couple of months I got a real server: IBM BladeCenter E!
 From then I mostly did commissions whenever I made bots, via [Fiverr](https://fiverr.com/jonnygamingtv) and via [JonBot Productions](https://discord.gg/pebGq4zFaB).
 Ever heard of [PS5 Discord bot](https://www.techtimes.com/articles/254529/20201126/ps5-stock-availability-discord-bot-heres-notified-playstation-5-restock.htm)? Guess who made it? ME! >:)
-I shifted from using XAMPP & apache to my own Node.JS server to get full customization, so I had to recode every website from 2020 as well.
+I shifted from using XAMPP & apache to my own Node.JS server to get full customization, so I had to recode every website as well.
 In the end of 2022 I co-founded [Marss](https://marss.jonhosting.com)!
 
 Solo projects:
