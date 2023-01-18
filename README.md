@@ -9,6 +9,9 @@
 -  - Discord server: https://jonhosting.com/discord
 -  - Steam: https://jonhosting.com/steam
 -  - Enjin: https://god-craft.enjin.com/profile/16714121 
+-  - PlanetMinecraft: https://www.planetminecraft.com/member/jonathanfi/
+-  - SpigotMC: https://www.spigotmc.org/members/jonathanfi.295225/
+-  - Curseforge: https://dev.bukkit.org/members/realjonnygamingtv/projects
 -  - Skype: jonathan.brodin.626
 -  - Xbox: JonnygamingTv
 -  - Google Play & Spotify: jgtvrealjgtv
