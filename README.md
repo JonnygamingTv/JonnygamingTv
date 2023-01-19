@@ -25,16 +25,21 @@ I mostly code in JavaScript (JS), I am pretty decent in PHP, Java & C#, and I ha
 
 With these coding experiences I have came across JSON, YAML and XML, also HTML and CSS.
 
-I ran Minecraft servers in 2016, I started using Discord in October of 2016.
-Began coding [Node.JS](https://nodejs.org/) in 2017-2018.
-I got invited to make [Simple Bots Workshop](https://jonhosting.com/SBW) in early-mid 2018.
-Created [Game Manager](https://jonhosting.com/SBW/GM), reached 1400 servers before Discord began requiring verification.
-[Got terminated](https://jontv.me/4R3axSdr), lost motivation. 
-Around that time I created [JonTube](https://jontube.jonhosting.com), which later rebranded to [JonTV](https://JonTV.me).
-In the end of may in 2020 [my laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/), however after a couple of months I got a real server: IBM BladeCenter E!
-Since then I mostly made bots as commissions, via [Fiverr](https://fiverr.com/jonnygamingtv) and/or via [JonBot Productions](https://discord.gg/pebGq4zFaB).
+[Minecraft](https://minecraft.net/download) servers since 2016. [Discord](https://discord.com) October of 2016.
+[Node.JS](https://nodejs.org/) since 2017-2018.
+
+[Simple Bots Workshop](https://jonhosting.com/SBW) early-mid 2018:
+[Game Manager](https://jonhosting.com/SBW/GM), hit 1400 servers before Discord began requiring verification.
+
+[Got terminated](https://jontv.me/4R3axSdr). 
+Founded [JonTube](https://jontube.jonhosting.com), rebranded to [JonTV](https://JonTV.me).
+[Laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/) 27th May 2020, later got: IBM BladeCenter E!
+
+Since then I mostly make bots as commissions, via [Fiverr](https://fiverr.com/jonnygamingtv) and/or via [JonBot Productions](https://discord.gg/pebGq4zFaB).
 Ever heard of [PS5 Discord bot](https://www.techtimes.com/articles/254529/20201126/ps5-stock-availability-discord-bot-heres-notified-playstation-5-restock.htm)? Guess who made it? ME! >:)
+
 I shifted from using XAMPP & apache to my own Node.JS server to get full customization, had to recode every website (PHP -> NodeJS).
+
 In the end of 2022 I co-founded [Marss](https://marss.jonhosting.com)!
 
 Solo projects:
