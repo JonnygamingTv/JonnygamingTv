@@ -18,6 +18,7 @@
 -  - YouTube: https://youtube.com/JonnygamingTv
 -  - Twitch: https://twitch.tv/realjonnygamingtv
 -  - Facebook: https://facebook.com/realJonTV
+-  - Instagram: https://www.instagram.com/jonnygaming_tv/
 -  - LinkedIn: https://linkedin.com/company/jonhosting/
 -  - Reddit: [jonathanfi](https://www.reddit.com/user/jonathanfi)
 
