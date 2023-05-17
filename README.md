@@ -6,9 +6,9 @@
 -  - Email: jonny@jonhosting.com
 -  - Gmail: jgtv.jonbot@gmail.com
 -  - Discord user: Jonnygaming Tv#2650
--  - Discord server: https://jonhosting.com/discord
+-  - Discord server: https://discord.gg/2dzBrbp
 -  - Telegram: https://t.me/jonhosting
--  - Steam: https://jonhosting.com/steam
+-  - Steam: https://s.team/chat/RAmeu1Su
 -  - Enjin: https://god-craft.enjin.com/profile/16714121 
 -  - PlanetMinecraft: https://www.planetminecraft.com/member/jonathanfi/
 -  - SpigotMC: https://www.spigotmc.org/members/jonathanfi.295225/
