@@ -53,7 +53,7 @@ Solo projects:
 
 Group projects:
 
-[![marss.one](https://marss.one/ico/Mmarss2.png)](https://marss.one)
+[![marss.one](https://marss.jonhosting.com/ico/Mmarss2.png)](https://marss.jonhosting.com)
 
 <!---
 JonnygamingTv/JonnygamingTv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
