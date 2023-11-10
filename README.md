@@ -29,7 +29,7 @@ I mostly code in JavaScript (JS), I am pretty decent in PHP, Java & C#, and I ha
 With these coding experiences I have came across JSON, YAML and XML, also HTML and CSS.
 
 [Minecraft](https://minecraft.net/download) servers since 2016. [Discord](https://discord.com) October of 2016.
-[Node.JS](https://nodejs.org/) since 2017-2018.
+[Node.JS](https://nodejs.org/) since 2017.
 
 [Simple Bots Workshop](https://jonhosting.com/SBW) early-mid 2018:
 [Game Manager](https://jonhosting.com/SBW/GM), hit 1400 servers before Discord began requiring verification.
