@@ -28,20 +28,20 @@ I mostly code in JavaScript (JS), I am pretty decent in PHP, Java & C#, and I ha
 
 With these coding experiences I have came across JSON, YAML and XML, also HTML and CSS.
 
-[Minecraft](https://minecraft.net/download) servers since 2016. [Discord](https://discord.com) October of 2016.
-[Node.JS](https://nodejs.org/) since 2017.
+[Stop-motion](https://www.youtube.com/playlist?list=PL_R3rHy5fP3yaEopmn4xgtf4iKoWubFrT) and [Mine-imator](https://www.youtube.com/playlist?list=PL_R3rHy5fP3z-_BPLMMoOxL_YvIiSFdK2) since 2015. [Blender](https://youtu.be/V3FI8r6kKPI?si=mZNgtAo05o8BFLPv) and [Minecraft servers](https://minecraft.net/download) since 2016. [Discord](https://discord.com) since October 2016.
+[Node.JS](https://nodejs.org/) since Aug/Sep 2017.
 
 [Simple Bots Workshop](https://jonhosting.com/SBW) early-mid 2018:
 [Game Manager](https://jonhosting.com/SBW/GM), hit 1400 servers before Discord began requiring verification.
 
-[Got terminated](https://jontv.me/4R3axSdr). 
+[Got terminated from Discord](https://jontv.me/4R3axSdr) 2019. 
 Founded [JonTube](https://jontube.jonhosting.com), rebranded to [JonTV](https://JonTV.me).
-[Laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/) 27th May 2020, later got: IBM BladeCenter E!
+[Laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/) 27th May 2020. Later got: IBM BladeCenter E!
 
 Since then I mostly make bots as commissions, via [Fiverr](https://fiverr.com/jonnygamingtv) and/or via [JonBot Productions](https://discord.gg/pebGq4zFaB).
-Ever heard of [PS5 Discord bot](https://www.techtimes.com/articles/254529/20201126/ps5-stock-availability-discord-bot-heres-notified-playstation-5-restock.htm)? Guess who made it? ME! >:)
+I made [PS5 Discord bot](https://www.techtimes.com/articles/254529/20201126/ps5-stock-availability-discord-bot-heres-notified-playstation-5-restock.htm) as a commission. >:)
 
-I shifted from using XAMPP & apache to my own Node.JS server to get full customization, had to recode every website (PHP -> NodeJS).
+I shifted from using XAMPP & apache to my own Node.JS server to get full customization, had to recode every webpage (PHP -> NodeJS).
 
 In the end of 2022 I co-founded [Marss](https://marss.jonhosting.com)!
 
