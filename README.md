@@ -47,7 +47,7 @@ In the end of 2022 I co-founded [Marss](https://marss.jonhosting.com)!
 
 Solo projects:
 
-[web.![JonHosting](https://jonhosting.com/JonHosting_Logo.png).com](https://web.JonHosting.com)
+[web.![JonHosting](https://jonhosting.com/JonHosting_Logo.png).com](https://JonHosting.com)
 
 [![JonTV.me](https://jontv.me/JonTV/JonTVme_light.svg)](https://JonTV.me)
 
