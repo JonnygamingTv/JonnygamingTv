@@ -24,7 +24,7 @@
 -  - LinkedIn: https://linkedin.com/company/jonhosting/
 -  - Reddit: [jonathanfi](https://www.reddit.com/user/jonathanfi)
 
-I mostly code in JavaScript (JS), I am pretty decent in PHP, Java & C#, and I have coded a bit in C++ and also a little in Lua.
+I mostly code in JavaScript (JS, both frontend and NodeJS), I am pretty decent in PHP, Java & C#, and I have coded a bit in C++ and also a little in Lua.
 
 With these coding experiences I have came across JSON, YAML and XML, also HTML and CSS.
 
