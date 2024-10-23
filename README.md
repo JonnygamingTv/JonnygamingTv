@@ -38,7 +38,7 @@ With these coding experiences I have came across JSON, YAML and XML, also HTML a
 Founded [JonTube](https://jontube.jonhosting.com), rebranded to [JonTV](https://JonTV.me).
 [Laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/) 27th May 2020. Later (2020-08) got: IBM BladeCenter E! Upgraded to R630 2024-08-26.
 
-Since then I mostly make bots as commissions, via [Fiverr](https://fiverr.com/jonnygamingtv) and/or via [JonBot Productions](https://discord.gg/pebGq4zFaB).
+Since 2020 I mostly make bots as commissions only (except for Marss and Bloxify), via [Fiverr](https://fiverr.com/jonnygamingtv) and/or via [JonBot Productions](https://discord.gg/pebGq4zFaB).
 I made [PS5 Discord bot](https://www.techtimes.com/articles/254529/20201126/ps5-stock-availability-discord-bot-heres-notified-playstation-5-restock.htm) as a commission. >:)
 
 I shifted from using XAMPP & apache to my own Node.JS server to get full customization, had to recode every webpage (PHP -> NodeJS).
