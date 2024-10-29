@@ -36,7 +36,7 @@ With these coding experiences I have came across JSON, YAML and XML, also HTML a
 
 [Got terminated from Discord](https://jontv.me/4R3axSdr) 2019. 
 Founded [JonTube](https://jontube.jonhosting.com), rebranded to [JonTV](https://JonTV.me).
-[Laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/) 27th May 2020. Later (2020-08) got: IBM BladeCenter E! Upgraded to R630 2024-08-26.
+[Laptop stopped working](https://community.acer.com/en/discussion/602921/my-aspire-e5-551-t9mg-laptop-keeps-shutting-off/) 27th May 2020. Later (2020-08) got: IBM BladeCenter E! Upgraded to Dell PowerEdge R630 2024-08-26.
 
 Since 2020 I mostly make bots as commissions only (except for Marss and Bloxify), via [Fiverr](https://fiverr.com/jonnygamingtv) and/or via [JonBot Productions](https://discord.gg/pebGq4zFaB).
 I made [PS5 Discord bot](https://www.techtimes.com/articles/254529/20201126/ps5-stock-availability-discord-bot-heres-notified-playstation-5-restock.htm) as a commission. >:)
