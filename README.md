@@ -18,6 +18,7 @@
 -  - Google Play & Spotify: jgtvrealjgtv
 -  - YouTube: https://youtube.com/JonnygamingTv
 -  - Twitch: https://twitch.tv/realjonnygamingtv
+   - TikTok: https://tiktok.com/@jonhosting
 -  - Snapchat: https://www.snapchat.com/add/jgtv778
 -  - Instagram: https://www.instagram.com/jonnygaming_tv/
 -  - Facebook: https://facebook.com/realJonTV
