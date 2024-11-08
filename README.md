@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 -  - Email: jonny@jonhosting.com
 -  - Gmail: jgtv.jonbot@gmail.com
--  - Discord user: [Jonnygaming Tv#2650](https://discord.com/users/614357269617967114)
+-  - Discord user: [Jonnygaming Tv#2650](https://discord.com/users/614357269617967114) (& @JGTV & @jonathanfi)
 -  - Discord server: https://discord.gg/2dzBrbp
 -  - Telegram: https://t.me/jonhosting
 -  - Steam: https://s.team/chat/RAmeu1Su
