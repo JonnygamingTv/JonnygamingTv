@@ -9,7 +9,7 @@
 -  - Discord server: https://discord.gg/2dzBrbp
 -  - Telegram: https://t.me/jonhosting
 -  - Steam: https://s.team/chat/RAmeu1Su
--  - Enjin: https://god-craft.enjin.com/profile/16714121 
+-  - ~~Enjin: https://god-craft.enjin.com/profile/16714121~~ (Enjin closed their forums 2023)
 -  - PlanetMinecraft: https://www.planetminecraft.com/member/jonathanfi/
 -  - SpigotMC: https://www.spigotmc.org/members/jonathanfi.295225/
 -  - Curseforge: https://dev.bukkit.org/members/realjonnygamingtv/projects
