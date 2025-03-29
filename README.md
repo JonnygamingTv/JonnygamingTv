@@ -18,11 +18,12 @@
 -  - Google Play & Spotify: jgtvrealjgtv
 -  - YouTube: https://youtube.com/JonnygamingTv
 -  - Twitch: https://twitch.tv/realjonnygamingtv
-   - TikTok: https://tiktok.com/@jonhosting
+-  - TikTok: https://tiktok.com/@jonhosting
 -  - Snapchat: https://www.snapchat.com/add/jgtv778
 -  - Instagram: https://www.instagram.com/jonnygaming_tv/
 -  - Facebook: https://facebook.com/realJonTV
 -  - LinkedIn: https://linkedin.com/company/jonhosting/
+-  - Stackoverflow: [Jonnygaming Tv](https://stackoverflow.com/users/9458219/jonnygaming-tv)
 -  - Reddit: [jonathanfi](https://www.reddit.com/user/jonathanfi)
 
 I mostly code in JavaScript (JS, both frontend and NodeJS), I am pretty decent in PHP, Java & C#, and I have coded a bit in C++ and also a little in Lua.
