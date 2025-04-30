@@ -31,10 +31,10 @@ I mostly code in JavaScript (JS, both frontend and NodeJS), I am pretty decent i
 With these coding experiences I have came across JSON, YAML and XML, also HTML and CSS.
 
 [Stop-motion](https://www.youtube.com/playlist?list=PL_R3rHy5fP3yaEopmn4xgtf4iKoWubFrT) and [Mine-imator](https://www.youtube.com/playlist?list=PL_R3rHy5fP3z-_BPLMMoOxL_YvIiSFdK2) since 2015. [Blender](https://youtu.be/V3FI8r6kKPI?si=mZNgtAo05o8BFLPv) and [Minecraft servers](https://minecraft.net/download) since 2016. [Discord](https://discord.com) since October 2016.
-[Node.JS](https://nodejs.org/) since Aug/Sep 2017.
+[Node.JS](https://nodejs.org/) since Aug 2017.
 
 [Simple Bots Workshop](https://jonhosting.com/SBW) early-mid 2018:
-[Game Manager](https://jonhosting.com/SBW/GM), hit 1400 servers before Discord began requiring verification.
+[Game Manager](https://jonhosting.com/SBW/GM) hit 1400 servers before Discord began requiring verification.
 
 [Got terminated from Discord](https://jontv.me/4R3axSdr) 2019. 
 Founded [JonTube](https://jontube.jonhosting.com), rebranded to [JonTV](https://JonTV.me).
