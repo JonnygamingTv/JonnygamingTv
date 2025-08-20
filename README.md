@@ -13,7 +13,7 @@
 -  - PlanetMinecraft: https://www.planetminecraft.com/member/jonathanfi/
 -  - SpigotMC: https://www.spigotmc.org/members/jonathanfi.295225/
 -  - Curseforge: https://dev.bukkit.org/members/realjonnygamingtv/projects
--  - Skype: jonathan.brodin.626 (Skype for normal consumers is closing in May, 2025)
+-  - ~~Skype: jonathan.brodin.626~~ (Skype for normal consumers shutdown in May, 2025)
 -  - Xbox: JonnygamingTv
 -  - Google Play & Spotify: jgtvrealjgtv
 -  - YouTube: https://youtube.com/JonnygamingTv
