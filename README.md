@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @JonnygamingTv
 - 👀 I’m interested in modelling, mostly interested in programming, a little more towards software but still a little interested of hardware
 - 🌱 I’m currently learning about everything
 - 💞️ I’m looking to collaborate on what fits best. I work best when making my own code myself, or when helping others works well too.
@@ -25,6 +24,8 @@
 -  - LinkedIn: https://linkedin.com/company/jonhosting/
 -  - Stackoverflow: [Jonnygaming Tv](https://stackoverflow.com/users/9458219/jonnygaming-tv)
 -  - Reddit: [jonathanfi](https://www.reddit.com/user/jonathanfi)
+
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnygamingTv)](https://github.com/anuraghazra/github-readme-stats)
 
 I mostly code in JavaScript (JS, both frontend and NodeJS), I am pretty decent in PHP, Java & C#, and I have coded a bit in C++ and also a little in Lua.
 
