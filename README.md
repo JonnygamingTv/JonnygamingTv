@@ -26,6 +26,7 @@
 -  - Reddit: [jonathanfi](https://www.reddit.com/user/jonathanfi)
 
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnygamingTv)](https://github.com/anuraghazra/github-readme-stats)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnygamingTv&layout=compact&theme=tokyonight)
 
 I mostly code in JavaScript (JS, both frontend and NodeJS), I am pretty decent in PHP, Java & C#, and I have coded a bit in C++ and also a little in Lua.
 
